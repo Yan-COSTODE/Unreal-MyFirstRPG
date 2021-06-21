@@ -1,5 +1,6 @@
 # MyFirstRPG
 This is my first project on Unreal Engine, it's a RPG with two differents character a Range Mage and a Melee Warrior.
+Each class has different ability, Mage : Heal and Blue Projectile, Warrior : Melee Attack and Dash
 
 ## Here some pictures of my games
 ![UnrealRPG1 1](https://user-images.githubusercontent.com/74534098/122750840-50a3cb00-d28f-11eb-8bdb-bdd22229179d.png)
